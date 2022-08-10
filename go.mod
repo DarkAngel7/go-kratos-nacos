@@ -1,4 +1,4 @@
-module github.com/go-kratos/nacos
+module github.com/DarkAngel7/go-kratos-nacos
 
 go 1.15
 
